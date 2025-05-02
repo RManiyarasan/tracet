@@ -30,10 +30,12 @@ This commands includes
 
 
 Program 4b
+
 ![Screenshot 2025-05-02 144611](https://github.com/user-attachments/assets/5ce3adbe-466f-48b7-997e-9423dc9a9679)
 
 
 4b output
+
 ![Screenshot (37)](https://github.com/user-attachments/assets/a3bf42c0-6100-4f91-9cc8-66bab288502d)
 
 ## Result
